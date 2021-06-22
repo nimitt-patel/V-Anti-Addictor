@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a31daefdcf21711887b7b79ed060c269\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\25e695fe5e5e8765753f1542e748c6c8\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\c743bbcc9fda40ed14e97e405a43b9b7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\79c0b21c8da9530c6ba00cdaa708ce15\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\fd07218a156f717c5d5285b231259f5f\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\71ce98dfcbe5ba3eff87e634f037f564\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7735a970fa25ae54360b5d0480744a54\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d7a2a9b4de0165e0519ec07d2f4d972\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d32243941b9cc485dba4ca5ddabbeb6d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\575a41edba247f7ecdfed4eadea6ee1e\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dcf99f9585bef84be44bbeaaf64a6f8a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\eaed93dc5231234d07f10d92258a2676\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\523595dcc96b24514c0e6607976c612d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\c1762d0bf2296d73ec822651724358fa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\315c183940b566a9a5b5a687f15a4321\AndroidManifest.xml:17:1-31:12
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+	package
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:1-118:12
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:2:11-69
+meta-data#com.onesignal.NotificationAccentColor.DEFAULT
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:6:5-115
+	android:value
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:6:77-112
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:6:16-76
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:8:5-10:47
+	tools:ignore
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:9:9-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:13:5-116:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a31daefdcf21711887b7b79ed060c269\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a31daefdcf21711887b7b79ed060c269\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\25e695fe5e5e8765753f1542e748c6c8\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\25e695fe5e5e8765753f1542e748c6c8\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\c743bbcc9fda40ed14e97e405a43b9b7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\c743bbcc9fda40ed14e97e405a43b9b7\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\79c0b21c8da9530c6ba00cdaa708ce15\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\79c0b21c8da9530c6ba00cdaa708ce15\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\fd07218a156f717c5d5285b231259f5f\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\fd07218a156f717c5d5285b231259f5f\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\71ce98dfcbe5ba3eff87e634f037f564\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\71ce98dfcbe5ba3eff87e634f037f564\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7735a970fa25ae54360b5d0480744a54\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7735a970fa25ae54360b5d0480744a54\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d7a2a9b4de0165e0519ec07d2f4d972\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d7a2a9b4de0165e0519ec07d2f4d972\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d32243941b9cc485dba4ca5ddabbeb6d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d32243941b9cc485dba4ca5ddabbeb6d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dcf99f9585bef84be44bbeaaf64a6f8a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dcf99f9585bef84be44bbeaaf64a6f8a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\eaed93dc5231234d07f10d92258a2676\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\eaed93dc5231234d07f10d92258a2676\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\523595dcc96b24514c0e6607976c612d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\523595dcc96b24514c0e6607976c612d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\c1762d0bf2296d73ec822651724358fa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\c1762d0bf2296d73ec822651724358fa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\315c183940b566a9a5b5a687f15a4321\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\315c183940b566a9a5b5a687f15a4321\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:18:9-65
+service#com.android.blocker.service.AppLaunchDetectService
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:19:9-23:40
+	android:enabled
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:22:13-35
+	android:exported
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:23:13-37
+	android:description
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:21:13-77
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:20:13-78
+activity#com.android.blocker.activity.MainActivity
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:27:13-56
+	android:theme
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:26:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#com.google.android.gms.version
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:39:9-41:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\fd07218a156f717c5d5285b231259f5f\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\fd07218a156f717c5d5285b231259f5f\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:40:13-58
+activity#com.android.blocker.activity.AddAppUsageLimitActivity
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:43:9-46:59
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:45:13-66
+	android:theme
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:44:13-81
+activity#com.android.blocker.activity.ViewAppUsageStatsActivity
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:47:9-50:59
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:49:13-62
+	android:theme
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:48:13-82
+receiver#com.android.blocker.receiver.AppLaunchDetectServiceStoppedReceiver
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:52:9-62:20
+	android:enabled
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:54:13-35
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:56:13-54
+	android:exported
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:53:13-94
+intent-filter#action:name:RelaunchService+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.REBOOT
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:57:13-61:29
+action#RelaunchService
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:58:17-58
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:58:25-55
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:59:17-79
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:59:25-76
+action#android.intent.action.REBOOT
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:60:17-71
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:60:25-68
+service#com.android.blocker.service.UsageStatsUpdateService
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:64:9-67:39
+	android:enabled
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:65:13-79
+receiver#com.android.blocker.receiver.UsageStatsUpdateServiceStoppedReceiver
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:69:9-79:20
+	android:enabled
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:71:13-35
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:73:13-59
+	android:exported
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:70:13-95
+intent-filter#action:name:RelaunchUsageService+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.REBOOT
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:74:13-78:29
+action#RelaunchUsageService
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:75:17-63
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:75:25-60
+receiver#com.android.blocker.receiver.DeviceShutDownReceiver
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:80:9-88:20
+	android:enabled
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:82:13-35
+	android:exported
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:83:13-36
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:81:13-79
+intent-filter#action:name:android.intent.action.ACTION_SHUTDOWN+action:name:android.intent.action.REBOOT
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:85:17-80
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:85:25-77
+receiver#com.android.blocker.receiver.DeviceTurnedOnReceiver
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:89:9-96:20
+	android:enabled
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:91:13-35
+	android:exported
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:92:13-36
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:90:13-79
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:93:13-95:29
+activity#com.android.blocker.activity.SettingsActivity
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:98:9-101:59
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:100:13-60
+	android:theme
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:101:13-56
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:99:13-73
+receiver#com.android.blocker.receiver.NotificationAlarmReceiver
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:103:9-106:39
+	android:enabled
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:105:13-35
+	android:exported
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:104:13-82
+activity#com.android.blocker.activity.AboutActivity
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:108:9-111:59
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:110:13-34
+	android:theme
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:109:13-70
+activity#com.android.blocker.activity.HelpActivity
+ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:112:9-115:68
+	android:label
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:114:13-56
+	android:theme
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:115:13-56
+	android:name
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml:113:13-69
+uses-sdk
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a31daefdcf21711887b7b79ed060c269\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a31daefdcf21711887b7b79ed060c269\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\25e695fe5e5e8765753f1542e748c6c8\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\25e695fe5e5e8765753f1542e748c6c8\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\c743bbcc9fda40ed14e97e405a43b9b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\c743bbcc9fda40ed14e97e405a43b9b7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\79c0b21c8da9530c6ba00cdaa708ce15\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\79c0b21c8da9530c6ba00cdaa708ce15\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\fd07218a156f717c5d5285b231259f5f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\fd07218a156f717c5d5285b231259f5f\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\71ce98dfcbe5ba3eff87e634f037f564\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\71ce98dfcbe5ba3eff87e634f037f564\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7735a970fa25ae54360b5d0480744a54\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7735a970fa25ae54360b5d0480744a54\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d7a2a9b4de0165e0519ec07d2f4d972\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d7a2a9b4de0165e0519ec07d2f4d972\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d32243941b9cc485dba4ca5ddabbeb6d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d32243941b9cc485dba4ca5ddabbeb6d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\575a41edba247f7ecdfed4eadea6ee1e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\575a41edba247f7ecdfed4eadea6ee1e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dcf99f9585bef84be44bbeaaf64a6f8a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dcf99f9585bef84be44bbeaaf64a6f8a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\eaed93dc5231234d07f10d92258a2676\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\eaed93dc5231234d07f10d92258a2676\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\523595dcc96b24514c0e6607976c612d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\523595dcc96b24514c0e6607976c612d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\c1762d0bf2296d73ec822651724358fa\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\c1762d0bf2296d73ec822651724358fa\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\315c183940b566a9a5b5a687f15a4321\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\315c183940b566a9a5b5a687f15a4321\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+		ADDED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+		INJECTED from F:\backup main proj\Anti Addictor\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a31daefdcf21711887b7b79ed060c269\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a31daefdcf21711887b7b79ed060c269\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\c743bbcc9fda40ed14e97e405a43b9b7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\c743bbcc9fda40ed14e97e405a43b9b7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\71ce98dfcbe5ba3eff87e634f037f564\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\71ce98dfcbe5ba3eff87e634f037f564\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d7a2a9b4de0165e0519ec07d2f4d972\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d7a2a9b4de0165e0519ec07d2f4d972\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d32243941b9cc485dba4ca5ddabbeb6d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d32243941b9cc485dba4ca5ddabbeb6d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\575a41edba247f7ecdfed4eadea6ee1e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\575a41edba247f7ecdfed4eadea6ee1e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dcf99f9585bef84be44bbeaaf64a6f8a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dcf99f9585bef84be44bbeaaf64a6f8a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\eaed93dc5231234d07f10d92258a2676\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\eaed93dc5231234d07f10d92258a2676\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\523595dcc96b24514c0e6607976c612d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\523595dcc96b24514c0e6607976c612d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\c1762d0bf2296d73ec822651724358fa\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\c1762d0bf2296d73ec822651724358fa\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\315c183940b566a9a5b5a687f15a4321\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\315c183940b566a9a5b5a687f15a4321\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\a0dfcad86cd80e5b7529f498ecf756e0\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f2daa4a76d0736e87169c9dc88bda2c3\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\33a502aab374401dd21d79739e50eb62\AndroidManifest.xml:6:79-124
